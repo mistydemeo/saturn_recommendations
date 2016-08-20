@@ -27,8 +27,11 @@
 ## Fighting
 
 * Asuka 120%: Limit Over (implausibly excellent schoolgirl fighter with very unique mechanics)
+* Marvel vs Street Fighter
 * Pocket Fighter (cute, beginner-friendly fighting game featuring chibi Capcom characters)
-* Vampire Savior
+* Street Fighter Zero 3 (aka Street Fighter Alpha 3)
+* Vampire Savior (third Darkstalkers game; fast-moving fighting game with wacky fantasy horror characters)
+* X-Men vs Street Fighter
 * Virtual On
 
 ## Puzzle
@@ -37,6 +40,7 @@
 * Hanagumi Taisen Columns (versus-oriented Columns sequel based on Sakura Wars, featuring an optional story mode)
 * Puyo Puyo Tsuu
 * Puyo Puyo Sun
+* Super Puzzle Fighter II Turbo (cute puzzle game featuring Capcom characters)
 
 ## RPG
 
